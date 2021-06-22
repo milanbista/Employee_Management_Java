@@ -82,13 +82,12 @@ User Page:
                       Main Page:
                       Logout
                       
- #############
- package structure
-    src 
-      employee tester
-      employee controller
-      employee service
-      employee respository
+ package structure:
+    src: 
+      employee tester:
+      employee controller:
+      employee service:
+      employee respository:
       
  
  
